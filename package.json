@@ -1,0 +1,13 @@
+{
+    "name": "toolbar", 
+    "license": "MPL 2.0", 
+    "author": "", 
+    "version": "0.1", 
+    "dependencies": [
+        "addon-kit", 
+        "toolbarbutton"
+    ], 
+    "fullName": "toolbar", 
+    "id": "jid1-l1QAXT5wWA8D2Q", 
+    "description": "a basic add-on"
+}
