@@ -1,5 +1,5 @@
 {
-    "name": "toolbar", 
+    "name": "notifier", 
     "license": "MPL 2.0", 
     "author": "", 
     "version": "0.1", 
@@ -8,6 +8,6 @@
         "toolbarbutton"
     ], 
     "fullName": "toolbar", 
-    "id": "jid1-l1QAXT5wWA8D2Q", 
-    "description": "a basic add-on"
+    "id": "notifier-example@canuckistani.ca", 
+    "description": "shows how to trigger a notificartion from a toolbar button."
 }
